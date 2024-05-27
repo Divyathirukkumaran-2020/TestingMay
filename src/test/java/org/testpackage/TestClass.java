@@ -10,6 +10,7 @@ public class TestClass {
 				if (arr[i]+arr[j] == target) {
 					System.out.println(i);
 					System.out.println(j);
+					System.out.println(1);
 				}
 				
 				
